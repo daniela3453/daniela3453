@@ -1,4 +1,6 @@
-### Hi there 👋
+Hola, mi nombre es Daniela Gómez Becerra. Me gusta mucho dibujar, bailar y correr. 
+Estoy en el curso de fundamentos en programación web, en el que me gustaría aprender a hacer una página 
+web con facilidad.
 
 <!--
 **daniela3453/daniela3453** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
